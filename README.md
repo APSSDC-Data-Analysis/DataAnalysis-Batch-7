@@ -1,4 +1,4 @@
-# DataAnalysis-7
+# DataAnalysis Batch-7
 All content and recorded sessions link available in this repository
 ## recorded sessions [Drive_Link](https://drive.google.com/drive/folders/1_N5wocfIv1k_518tk-lVKGl-XxSys7ug?usp=sharing)
 #### For upcoming updates in APSSDC join in [Telegrame](t.me/apssdcupdates)
