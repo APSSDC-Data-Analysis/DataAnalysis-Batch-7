@@ -2,6 +2,7 @@
 All content and recorded sessions link available in this repository
 ## recorded sessions [Drive_Link](https://drive.google.com/drive/folders/1_N5wocfIv1k_518tk-lVKGl-XxSys7ug?usp=sharing)
 #### For upcoming updates in APSSDC join in [Telegrame](t.me/apssdcupdates)
+### [Python syllabus](https://github.com/LavanyaPolamarasetty/Python_syllabus/)
 
 ### Numpy
 
@@ -14,5 +15,4 @@ All content and recorded sessions link available in this repository
 
 1. [Pandas Official website](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 2. [Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-
 #### [29-10-2020 recorded session](https://transcripts.gotomeeting.com/#/s/c1783cec18cfa8ae0a6918c082480fedb735aa73451c6e4c4ebdf749c45d4a07)
