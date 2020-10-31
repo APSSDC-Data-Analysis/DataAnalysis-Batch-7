@@ -1,6 +1,7 @@
 # DataAnalysis Batch-7
 All content and recorded sessions link available in this repository
 ## recorded sessions [Drive_Link](https://drive.google.com/drive/folders/1_N5wocfIv1k_518tk-lVKGl-XxSys7ug?usp=sharing)
+## Find your Details [Here](https://docs.google.com/spreadsheets/d/1W1Y7uGBw5Phl7HtY19DQ2qoysOySVz4lJ93cyW-sY7g/edit?usp=sharing)
 #### For upcoming updates in APSSDC join in [Telegrame](t.me/apssdcupdates)
 ### [Python syllabus](https://github.com/LavanyaPolamarasetty/Python_syllabus/)
 
