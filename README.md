@@ -16,5 +16,3 @@ All content and recorded sessions link available in this repository
 
 1. [Pandas Official website](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 2. [Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-#### [29-10-2020 recorded session](https://transcripts.gotomeeting.com/#/s/c1783cec18cfa8ae0a6918c082480fedb735aa73451c6e4c4ebdf749c45d4a07)
-#### [30-10-2020 recorded session](https://transcripts.gotomeeting.com/#/s/6625293cff81613f6e371fc5a6d649189ea845073c32f36eba100339307de979)
