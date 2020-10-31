@@ -25,4 +25,3 @@ All content and recorded sessions link available in this repository
 3. [Data.World](https://data.world/)
 4. [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 5. [Ways to detect outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
-6. [official Website for sklearn](https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)
