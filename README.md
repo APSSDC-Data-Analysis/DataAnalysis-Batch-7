@@ -16,3 +16,12 @@ All content and recorded sessions link available in this repository
 
 1. [Pandas Official website](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 2. [Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+### Data Prepreccessing 
+
+0. [sklearn.preprocessing Module](https://scikit-learn.org/stable/modules/preprocessing.html)
+1. [Kaggle](https://www.kaggle.com/datasets)
+2. [Google Datset Search Engine](https://datasetsearch.research.google.com/)
+3. [Data.World](https://data.world/)
+4. [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+5. [Ways to detect outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
